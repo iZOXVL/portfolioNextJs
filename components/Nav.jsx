@@ -1,6 +1,7 @@
 import Link from "next/link";
 // navigation
 import { usePathname } from "next/navigation";
+import { navData } from "./data";
 
 const Nav = () => {
   const pathname = usePathname()
