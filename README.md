@@ -4,7 +4,8 @@ Este repositorio contiene un portafolio desarrollado con Next.js y animaciones r
 ## Características
 Next.js: Un framework de React para producción.
 Framer Motion: Una biblioteca para animaciones en React.
-Requisitos Previos
+
+## Requisitos Previos
 Asegúrate de tener instalado Node.js en tu sistema para poder utilizar npm (Node Package Manager).
 
 ## Instalación
